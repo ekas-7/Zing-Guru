@@ -1,0 +1,7 @@
+youtube_transcript_api
+google-generativeai
+python-dotenv
+pathlib
+fastapi
+pydantic
+google-cloud-translate

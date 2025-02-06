@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zing-Focus</title>
+  <style>
+    body {
+      width: 320px;
+      padding: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #2C3E50; /* Dark greenish-black background */
+      color: #E0E0E0;
+      text-align: center;
+      border-radius: 10px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .header img {
+      width: 32px; /* Fixed logo size */
+      height: 32px; /* Fixed logo size */
+      margin-right: 10px;
+      object-fit: contain; /* Ensures the logo maintains its aspect ratio */
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 20px;
+      color: #A3D9A5; /* Light greenish text color */
+    }
+    .manage-button {
+      width: 100%;
+      padding: 10px;
+      background: linear-gradient(135deg, #4CAF50, #76C7A3); /* Greenish gradient */
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+      transition: background 0.3s ease, transform 0.2s ease;
+    }
+    .manage-button:hover {
+      background: linear-gradient(135deg, #45A049, #66B79E); /* Darker greenish gradient on hover */
+      transform: scale(1.05);
+    }
+    .manage-button:active {
+      transform: scale(0.98);
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="./assets/image.png" alt="Site Blocker">
+    <h1>Zing-Blocker</h1>
+  </div>
+  <button id="manageButton" class="manage-button">Manage Blocked Sites</button>
+  <script src="popup.js"></script>
+</body>
+</html>
