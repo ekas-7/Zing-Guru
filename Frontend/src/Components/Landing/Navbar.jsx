@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import logo from "../../assets/logo.png"
+import logo from "../../assets/zing_logo_lt2.png"
 import DarkModeToggle from '../ui/DarkModeToggle';
 
 export default function Navbar() {
