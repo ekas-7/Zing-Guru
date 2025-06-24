@@ -33,7 +33,7 @@ Zing Guru tackles these gaps by blending adaptive AI learning with blockchain-ba
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend/UI**: MERN stack, Tailwind CSS  
 - **Backend/API**: FastAPI (Python)  
@@ -73,7 +73,7 @@ Zing Guru tackles these gaps by blending adaptive AI learning with blockchain-ba
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 - Expand NFT system for external credentialing  
 - Evaluate GenAI for curriculum generation and tutor guidance  
@@ -83,27 +83,27 @@ Zing Guru tackles these gaps by blending adaptive AI learning with blockchain-ba
 
 ---
 
-## 🙏 Team
+## Team
 
 - Saurabh Sahu  
 - Sujal Kumar  
 - Vatsal Khanna  
 - Gaurav Upadhyay  
-- Ekaspreet Atwal (repo owner)
+- Ekaspreet Atwal
 
 ---
 
-## 🔗 Links
+## Links
 
 - **GitHub**: [ekas-7/Zing‑Guru](https://github.com/ekas-7/Zing-Guru)  
 - **Live Demo / HackTU submission**: [Live](https://sage-zingguru.vercel.app/)
 
 ---
 
-## 📜 License
+## License
 
 This project is MIT‑licensed. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-### 🎓 Zing Guru is an inclusive, intelligent, and rewarding way to learn — for everyone, anywhere.
+### Zing Guru is an inclusive, intelligent, and rewarding way to learn — for everyone, anywhere.
