@@ -4,23 +4,23 @@ const CONTACT_INFO = {
   email: {
     icon: Mail,
     title: "Email",
-    value: "hello@learningplatform.com",
+    value: "sujal21102004@gmail.com",
   },
   phone: {
     icon: Phone,
     title: "Phone",
-    value: "+91 (123) 456-7890",
+    value: "+91 91156 64773",
   },
   location: {
     icon: MapPin,
     title: "Location",
-    value: "123 Education Hub, Learning Valley, Knowledge City - 400001",
+    value: "NIT Jalandhar",
   },
   github: {
     icon: Github,
     title: "GitHub",
-    value: "github.com/learningplatform",
-    link: "https://github.com/learningplatform"
+    value: "https://github.com/ekas-7/Zing-Guru/",
+    link: "https://github.com/ekas-7/Zing-Guru/"
   }
 };
 
